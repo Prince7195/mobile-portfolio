@@ -1,0 +1,14 @@
+{
+  "name": "mobile_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio simple website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Vijay Deepak",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
