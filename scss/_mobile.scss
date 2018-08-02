@@ -72,4 +72,15 @@
   .projects {
     grid-template-columns: 1fr;
   }
+
+  #contact {
+    .boxes div {
+      font-size: 1.5rem;
+      padding: 0.5rem 0.5rem;
+    }
+
+    h1.lg-heading {
+      font-size: 4rem;
+    }
+  }
 }
